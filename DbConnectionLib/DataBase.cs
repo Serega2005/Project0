@@ -17,7 +17,7 @@ namespace DbConnectionLib
         #endregion
 
         #region Constructor
-
+        
         public DataBase()
         {
             _db = new MySqlConnection();
